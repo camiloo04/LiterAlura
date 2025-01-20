@@ -1,5 +1,7 @@
 # LiterAlura Book Catalog
 
+The academic content was in Spanish, but I developed the project in English
+
 A Spring Boot console application that manages a book catalog using the Gutendex API.
 
 ## Requirements
