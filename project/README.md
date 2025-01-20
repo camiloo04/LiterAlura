@@ -10,13 +10,6 @@ A Spring Boot console application that manages a book catalog using the Gutendex
 - PostgreSQL
 - Maven
 
-## Setup
-
-1. Create a PostgreSQL database named `literalura`
-2. Update database credentials in `src/main/resources/application.properties` if needed
-3. Build the project: `mvn clean install`
-4. Run the application: `mvn spring-boot:run`
-
 ## Features
 
 - Search books by title using Gutendex API
